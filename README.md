@@ -12,5 +12,5 @@ File fibodijk.cpp implements Dijsktra algorithm with Fibonacci heaps and dijkstr
 1.) Compile codes `fibodijk.cpp` and/or `dijkstra.cpp` using g++ (std at least 17) <br/>
 2.) Run program in terminal with `./fibodijk` (or `./dijkstra`)  <br/>
 3.) Run program on large input (e.g. in.txt contains description of graph): `./fibodijk < in.txt > out.txt` <br/>
-4.) Track running time of program: time `./fibodijk < int.txt > out.txt` <br/>
+4.) Track running time of program: `time ./fibodijk < int.txt > out.txt` <br/>
 Testing on Windows OS is very similar. <br/>
